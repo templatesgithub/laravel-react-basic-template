@@ -17,6 +17,9 @@
                     {{ __('You are logged in!') }}
 
                     <div id="example" class="mt-3"></div>
+
+
+                    <div id="example2" class="mt-3"></div>
                 </div>
             </div>
         </div>
